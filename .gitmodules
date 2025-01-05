@@ -1,0 +1,6 @@
+[submodule "Stock-market-simulator"]
+	path = Stock-market-simulator
+	url = https://github.com/Ayushman-Saha/Stock-market-simulator.git
+[submodule "sms-frontend"]
+	path = sms-frontend
+	url = https://github.com/D33panshuDR/sms-frontend.git
